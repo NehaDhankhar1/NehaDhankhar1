@@ -12,6 +12,10 @@
 - Soft skills : Problem Solving and critical thinking, Undertaking challenges.
 - Hard skills :  Excel, Microsoft Office, Tableau, Microsoft Power BI, Digital marketing, website creation without code , AI.
 
+## Project links:
+No code websites created
+- https://6689081b9a39b.site123.me/
+- https://66896ee502f75.site123.me/
 <!--
 **NehaDhankhar1/NehaDhankhar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
